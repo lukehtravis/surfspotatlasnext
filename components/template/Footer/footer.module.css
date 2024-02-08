@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+  width: 100%;
+}
+
+.is-homepage {
+  position: fixed;
+  bottom: 0;
+}
